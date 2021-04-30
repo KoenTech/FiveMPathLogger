@@ -90,7 +90,6 @@ namespace FiveMPathLogger
                     path.Add(Game.PlayerPed.Position);
                 }
             }
-
         }
 
         void DrawALine(Vector3 p1, Vector3 p2)
